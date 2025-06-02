@@ -1,0 +1,301 @@
+interaction_id,customer_id,interaction_type,interaction_date,rep_id,outcome
+1,28,Meeting,2024-07-20,4,Closed Won
+2,51,Demo,2024-09-15,3,Follow-up
+3,18,Email,2025-01-29,9,Closed Lost
+4,34,Demo,2025-02-01,10,Closed Won
+5,47,Email,2025-01-14,3,Closed Lost
+6,64,Call,2024-12-30,1,Interested
+7,20,Email,2025-03-04,7,Closed Lost
+8,9,Demo,2024-10-05,7,Closed Lost
+9,60,Meeting,2024-10-26,9,Interested
+10,88,Call,2025-01-19,9,Follow-up
+11,99,Meeting,2024-12-24,2,Follow-up
+12,56,Email,2024-09-23,8,Interested
+13,93,Meeting,2024-11-24,9,Not Interested
+14,65,Call,2024-12-14,5,Closed Lost
+15,78,Email,2025-01-22,3,Follow-up
+16,98,Email,2024-11-15,9,Closed Lost
+17,1,Meeting,2024-07-09,8,Interested
+18,15,Meeting,2025-04-05,5,Not Interested
+19,8,Email,2025-02-28,10,Interested
+20,11,Demo,2024-07-15,2,Closed Lost
+21,99,Email,2025-04-28,3,Closed Won
+22,71,Email,2025-02-10,5,Closed Lost
+23,78,Demo,2025-02-08,4,Closed Lost
+24,97,Email,2025-05-07,5,Closed Won
+25,86,Meeting,2025-03-26,8,Closed Lost
+26,58,Call,2025-01-01,4,Not Interested
+27,9,Meeting,2025-03-07,1,Closed Lost
+28,71,Email,2025-05-03,10,Not Interested
+29,1,Call,2024-08-23,1,Not Interested
+30,9,Call,2024-11-15,6,Interested
+31,66,Email,2024-11-23,5,Closed Won
+32,28,Email,2025-05-11,10,Closed Lost
+33,61,Email,2024-08-28,8,Closed Won
+34,25,Call,2024-11-08,2,Closed Won
+35,46,Demo,2024-10-10,7,Closed Won
+36,94,Call,2025-04-18,2,Interested
+37,52,Meeting,2024-11-24,2,Not Interested
+38,25,Email,2024-11-02,9,Closed Won
+39,18,Demo,2024-11-09,3,Follow-up
+40,60,Email,2025-03-11,2,Closed Won
+41,71,Call,2024-07-07,1,Closed Lost
+42,2,Call,2024-09-30,4,Not Interested
+43,53,Demo,2024-11-13,8,Not Interested
+44,52,Call,2024-09-30,3,Closed Won
+45,1,Demo,2025-02-14,5,Closed Won
+46,37,Demo,2024-09-07,9,Closed Won
+47,20,Email,2024-10-24,5,Not Interested
+48,8,Call,2024-07-30,6,Interested
+49,7,Demo,2025-02-22,9,Closed Lost
+50,21,Call,2025-05-25,9,Interested
+51,24,Call,2024-12-02,10,Interested
+52,87,Email,2024-06-27,7,Interested
+53,73,Email,2024-07-06,10,Closed Lost
+54,6,Call,2025-04-20,7,Closed Lost
+55,73,Meeting,2024-07-04,5,Not Interested
+56,86,Meeting,2024-07-07,4,Follow-up
+57,51,Email,2024-11-15,5,Closed Won
+58,41,Call,2024-07-08,1,Closed Won
+59,80,Call,2025-03-17,2,Closed Lost
+60,28,Meeting,2025-03-14,3,Follow-up
+61,9,Email,2024-10-23,6,Follow-up
+62,21,Demo,2025-04-12,9,Follow-up
+63,79,Call,2024-07-21,9,Follow-up
+64,85,Call,2025-01-03,3,Follow-up
+65,15,Call,2024-06-24,9,Not Interested
+66,35,Meeting,2025-01-14,10,Not Interested
+67,92,Meeting,2025-01-05,4,Follow-up
+68,65,Demo,2025-01-05,5,Interested
+69,12,Demo,2024-10-07,5,Interested
+70,1,Meeting,2025-02-16,3,Follow-up
+71,21,Demo,2024-07-18,9,Closed Won
+72,72,Call,2024-11-07,2,Interested
+73,89,Email,2024-10-16,9,Interested
+74,48,Email,2025-05-06,7,Not Interested
+75,6,Meeting,2025-02-14,6,Interested
+76,46,Email,2025-06-01,4,Interested
+77,46,Demo,2025-03-19,10,Not Interested
+78,31,Email,2024-11-12,3,Closed Won
+79,4,Email,2025-05-04,6,Closed Won
+80,86,Email,2025-05-22,5,Not Interested
+81,90,Call,2025-03-08,7,Interested
+82,61,Email,2024-06-20,4,Closed Won
+83,45,Meeting,2024-09-20,4,Not Interested
+84,4,Email,2025-01-20,7,Follow-up
+85,36,Call,2024-09-30,5,Follow-up
+86,83,Demo,2024-10-15,9,Follow-up
+87,4,Call,2024-07-11,5,Not Interested
+88,75,Meeting,2025-01-11,1,Interested
+89,77,Demo,2024-12-15,6,Follow-up
+90,56,Call,2024-08-22,7,Closed Lost
+91,25,Meeting,2024-07-31,1,Closed Won
+92,1,Email,2025-02-11,6,Closed Won
+93,9,Meeting,2024-12-05,10,Follow-up
+94,85,Call,2024-08-27,5,Closed Lost
+95,40,Demo,2025-04-26,6,Closed Won
+96,90,Meeting,2024-07-13,9,Not Interested
+97,25,Demo,2024-10-14,7,Not Interested
+98,79,Meeting,2025-04-25,7,Closed Lost
+99,1,Meeting,2025-01-03,5,Not Interested
+100,56,Meeting,2024-10-21,8,Closed Won
+101,57,Email,2024-07-15,9,Closed Won
+102,95,Email,2025-03-24,2,Follow-up
+103,66,Meeting,2024-09-17,2,Not Interested
+104,87,Meeting,2025-01-09,4,Not Interested
+105,19,Call,2024-08-27,1,Not Interested
+106,61,Call,2025-04-10,8,Closed Won
+107,81,Email,2024-11-14,7,Closed Won
+108,52,Email,2025-04-25,3,Interested
+109,97,Call,2025-01-04,7,Not Interested
+110,23,Demo,2025-03-26,1,Closed Lost
+111,32,Call,2025-04-14,8,Not Interested
+112,60,Meeting,2025-01-28,8,Closed Lost
+113,93,Demo,2025-01-25,9,Closed Won
+114,21,Demo,2025-02-18,8,Follow-up
+115,97,Email,2025-02-05,5,Closed Lost
+116,63,Email,2025-01-03,5,Closed Won
+117,10,Meeting,2024-06-11,4,Follow-up
+118,43,Meeting,2025-01-23,9,Interested
+119,18,Email,2025-05-27,4,Closed Won
+120,89,Email,2025-02-11,4,Interested
+121,54,Demo,2025-04-19,6,Closed Lost
+122,60,Demo,2025-02-25,1,Not Interested
+123,54,Demo,2024-09-12,10,Interested
+124,98,Demo,2024-06-12,8,Interested
+125,46,Meeting,2024-08-10,7,Closed Won
+126,69,Email,2024-09-15,8,Not Interested
+127,35,Demo,2025-02-28,8,Interested
+128,50,Meeting,2025-03-24,7,Not Interested
+129,60,Email,2024-09-28,10,Closed Lost
+130,4,Demo,2025-05-24,10,Closed Lost
+131,85,Call,2024-10-10,2,Closed Won
+132,18,Demo,2024-10-15,3,Interested
+133,34,Demo,2024-06-03,6,Not Interested
+134,59,Meeting,2024-08-10,6,Closed Won
+135,36,Demo,2025-05-04,5,Interested
+136,61,Call,2024-07-26,9,Interested
+137,45,Email,2025-01-06,2,Interested
+138,97,Call,2025-02-11,4,Not Interested
+139,3,Email,2024-11-03,4,Not Interested
+140,61,Call,2024-06-28,10,Not Interested
+141,60,Meeting,2024-07-26,6,Not Interested
+142,78,Call,2025-03-15,3,Follow-up
+143,14,Call,2025-02-01,5,Closed Lost
+144,87,Demo,2024-06-12,7,Not Interested
+145,10,Email,2024-07-06,2,Follow-up
+146,88,Call,2025-03-17,10,Interested
+147,45,Demo,2024-12-24,6,Interested
+148,65,Meeting,2024-08-23,1,Closed Won
+149,63,Call,2024-10-25,7,Follow-up
+150,82,Demo,2024-11-11,3,Closed Won
+151,23,Meeting,2024-11-24,10,Closed Lost
+152,100,Demo,2024-10-11,8,Closed Won
+153,94,Meeting,2024-08-01,6,Not Interested
+154,12,Meeting,2024-10-22,8,Not Interested
+155,97,Demo,2024-09-30,10,Closed Lost
+156,86,Demo,2025-03-08,6,Interested
+157,64,Meeting,2024-10-04,3,Closed Won
+158,28,Meeting,2025-03-29,5,Follow-up
+159,36,Meeting,2025-06-01,9,Interested
+160,67,Email,2025-01-07,2,Not Interested
+161,93,Demo,2025-01-18,8,Closed Lost
+162,98,Email,2024-07-03,8,Closed Won
+163,58,Call,2025-05-10,2,Follow-up
+164,29,Demo,2024-06-21,4,Follow-up
+165,85,Meeting,2024-07-31,8,Closed Lost
+166,68,Meeting,2024-08-01,7,Closed Lost
+167,43,Meeting,2025-03-20,8,Follow-up
+168,40,Meeting,2025-01-26,4,Interested
+169,93,Email,2024-06-20,6,Interested
+170,96,Email,2025-02-17,4,Not Interested
+171,95,Demo,2024-07-02,5,Closed Lost
+172,98,Meeting,2024-09-14,2,Not Interested
+173,38,Email,2024-11-20,6,Not Interested
+174,39,Call,2025-02-13,9,Not Interested
+175,36,Call,2024-11-12,1,Closed Lost
+176,38,Email,2024-12-06,8,Interested
+177,2,Meeting,2025-01-22,8,Closed Won
+178,57,Meeting,2024-11-19,3,Interested
+179,33,Demo,2024-11-08,2,Interested
+180,52,Demo,2024-09-15,2,Closed Lost
+181,81,Call,2024-08-23,3,Not Interested
+182,73,Meeting,2025-03-21,2,Not Interested
+183,16,Demo,2024-12-16,10,Closed Lost
+184,80,Email,2024-07-15,9,Closed Won
+185,58,Demo,2024-10-13,5,Closed Lost
+186,55,Meeting,2024-11-14,10,Closed Lost
+187,8,Call,2024-07-14,4,Not Interested
+188,34,Call,2024-09-19,3,Not Interested
+189,23,Call,2025-02-19,3,Interested
+190,53,Demo,2025-02-19,10,Closed Won
+191,38,Call,2025-01-17,4,Follow-up
+192,91,Meeting,2024-12-06,8,Interested
+193,88,Email,2024-12-22,5,Closed Lost
+194,85,Email,2025-02-15,7,Interested
+195,70,Email,2024-09-28,3,Follow-up
+196,19,Call,2024-06-18,1,Not Interested
+197,40,Meeting,2024-08-25,8,Interested
+198,60,Meeting,2024-11-01,7,Follow-up
+199,65,Demo,2025-01-19,8,Interested
+200,77,Call,2024-06-22,7,Follow-up
+201,78,Meeting,2024-06-03,1,Interested
+202,30,Call,2024-08-19,5,Closed Lost
+203,6,Email,2024-09-26,8,Closed Lost
+204,84,Demo,2024-08-22,5,Not Interested
+205,75,Demo,2025-03-26,8,Interested
+206,61,Meeting,2024-07-24,7,Follow-up
+207,42,Call,2025-03-24,3,Follow-up
+208,53,Demo,2024-09-08,5,Closed Won
+209,98,Call,2024-09-21,8,Interested
+210,41,Meeting,2024-10-06,6,Interested
+211,99,Demo,2024-07-17,9,Interested
+212,85,Demo,2024-06-04,7,Interested
+213,25,Meeting,2024-12-11,10,Closed Won
+214,81,Demo,2025-03-18,1,Not Interested
+215,35,Email,2024-11-15,5,Closed Won
+216,90,Demo,2024-08-08,2,Interested
+217,81,Email,2024-07-21,3,Follow-up
+218,71,Call,2024-10-26,9,Closed Won
+219,12,Email,2024-12-24,2,Closed Won
+220,16,Email,2025-03-01,8,Follow-up
+221,66,Meeting,2024-08-29,7,Closed Won
+222,61,Email,2024-12-12,8,Closed Lost
+223,19,Demo,2025-01-03,4,Closed Lost
+224,66,Email,2025-04-20,2,Follow-up
+225,99,Demo,2025-02-15,6,Closed Lost
+226,35,Call,2025-04-10,5,Follow-up
+227,76,Demo,2024-10-16,3,Closed Won
+228,69,Demo,2024-06-28,6,Follow-up
+229,71,Demo,2024-11-02,8,Follow-up
+230,25,Email,2025-05-01,10,Closed Won
+231,30,Demo,2025-03-16,1,Follow-up
+232,96,Demo,2024-06-17,7,Closed Won
+233,85,Email,2024-11-17,8,Interested
+234,17,Meeting,2024-06-08,2,Closed Won
+235,13,Demo,2024-11-26,1,Not Interested
+236,53,Email,2025-05-24,2,Closed Won
+237,34,Meeting,2024-07-01,10,Closed Won
+238,84,Call,2025-05-01,6,Closed Lost
+239,49,Meeting,2024-09-30,8,Closed Lost
+240,5,Call,2025-01-10,4,Follow-up
+241,30,Call,2024-11-14,7,Interested
+242,98,Call,2025-01-09,8,Not Interested
+243,89,Meeting,2024-11-05,1,Interested
+244,42,Call,2025-03-03,5,Follow-up
+245,48,Demo,2025-02-04,3,Not Interested
+246,68,Demo,2024-11-10,10,Not Interested
+247,22,Email,2024-09-21,2,Closed Lost
+248,49,Email,2024-07-15,8,Closed Lost
+249,19,Email,2024-11-05,8,Follow-up
+250,59,Meeting,2024-06-09,1,Closed Won
+251,37,Email,2024-10-05,2,Closed Won
+252,45,Meeting,2024-08-06,7,Follow-up
+253,59,Meeting,2025-04-08,4,Closed Won
+254,62,Call,2025-01-27,4,Closed Won
+255,74,Meeting,2024-11-26,10,Follow-up
+256,90,Meeting,2025-04-20,1,Closed Won
+257,36,Call,2025-02-23,10,Interested
+258,78,Demo,2025-05-24,5,Not Interested
+259,78,Meeting,2024-10-19,4,Not Interested
+260,80,Meeting,2024-07-05,3,Interested
+261,81,Call,2024-11-17,5,Closed Won
+262,5,Meeting,2025-04-24,3,Interested
+263,38,Meeting,2024-07-12,7,Not Interested
+264,26,Email,2024-09-03,9,Follow-up
+265,68,Meeting,2024-11-17,3,Follow-up
+266,62,Meeting,2025-01-15,6,Interested
+267,60,Call,2024-11-03,3,Not Interested
+268,87,Demo,2024-12-21,9,Follow-up
+269,12,Demo,2024-07-01,1,Follow-up
+270,69,Call,2024-11-01,8,Follow-up
+271,87,Meeting,2025-05-05,10,Closed Won
+272,82,Meeting,2024-09-29,2,Not Interested
+273,61,Call,2025-03-17,10,Closed Lost
+274,42,Email,2024-10-10,2,Closed Won
+275,90,Meeting,2024-08-26,7,Interested
+276,18,Call,2024-10-08,1,Follow-up
+277,64,Call,2025-03-30,2,Not Interested
+278,69,Email,2024-08-05,7,Closed Won
+279,48,Demo,2024-06-30,10,Not Interested
+280,54,Call,2024-12-16,8,Closed Lost
+281,53,Meeting,2025-02-01,1,Follow-up
+282,28,Demo,2024-07-15,8,Not Interested
+283,47,Call,2024-12-24,6,Closed Lost
+284,83,Meeting,2024-12-16,1,Closed Won
+285,36,Email,2024-08-15,2,Closed Won
+286,12,Email,2025-05-18,10,Interested
+287,7,Meeting,2025-03-29,4,Not Interested
+288,73,Email,2024-10-14,2,Closed Lost
+289,27,Email,2024-10-15,4,Follow-up
+290,100,Email,2025-03-10,10,Interested
+291,36,Email,2025-04-15,3,Closed Lost
+292,33,Email,2025-02-06,2,Interested
+293,17,Call,2025-04-13,6,Not Interested
+294,76,Meeting,2024-07-28,1,Not Interested
+295,34,Call,2024-08-31,3,Closed Won
+296,68,Call,2024-07-10,2,Closed Won
+297,58,Meeting,2024-07-27,9,Closed Lost
+298,14,Demo,2024-09-08,9,Not Interested
+299,79,Call,2024-08-16,9,Follow-up
+300,59,Call,2024-08-07,1,Closed Won

@@ -1,0 +1,101 @@
+customer_id,name,email,country,signup_date,status
+1,Allison Hill,jillrhodes@miller.com,Djibouti,2024-06-28,Lead
+2,Kristina Baldwin,shaneramirez@gmail.com,Senegal,2025-02-16,Active
+3,Jay Ramirez,curtis61@abbott-munoz.com,Saint Lucia,2024-05-23,Active
+4,Valerie Gray,barbara10@hotmail.com,Denmark,2025-01-22,Lead
+5,Bobby Hall,oramirez@martin-kelly.com,Reunion,2025-05-29,Inactive
+6,Andrea Reid,stevennelson@watts.com,Denmark,2025-03-01,Active
+7,Ethan Adams,jason76@ellis.net,Martinique,2023-12-23,Active
+8,Jessica Silva,wendytaylor@yahoo.com,Bermuda,2025-01-09,Active
+9,Brian Burton,cruzcaitlin@yahoo.com,Malta,2023-12-14,Lead
+10,Shannon Smith,kayla51@graham-chavez.com,Macao,2025-01-13,Active
+11,Thomas Harrell,ericfarmer@hotmail.com,Zimbabwe,2025-01-26,Lead
+12,Tamara George,rodriguezmichael@yahoo.com,Dominican Republic,2023-07-16,Lead
+13,Keith Miller,spenceamanda@gmail.com,Brunei Darussalam,2024-10-26,Lead
+14,Joshua Baker,sarahcampos@hotmail.com,Cook Islands,2024-12-06,Active
+15,Zachary Santos,omartinez@gmail.com,Guadeloupe,2023-06-18,Lead
+16,Crystal Robinson,perezrebecca@jones-young.info,Croatia,2024-07-24,Inactive
+17,Timothy Duncan,kristenaguirre@gmail.com,Bhutan,2023-08-16,Active
+18,Heather Jenkins,brownjessica@wright.net,Kiribati,2023-09-18,Active
+19,Donald Wright,jmorton@williams.com,Bermuda,2025-05-21,Active
+20,Cynthia Russell,michellebarrera@gmail.com,Hong Kong,2023-06-03,Active
+21,Mrs. Rachel Gibson,smoore@gmail.com,Azerbaijan,2024-08-24,Active
+22,Amy Edwards,hshaw@brown.com,Thailand,2023-10-24,Lead
+23,Barry Hensley,davidashley@hotmail.com,Nauru,2023-07-02,Lead
+24,Jennifer Silva,james53@yahoo.com,Indonesia,2023-09-11,Active
+25,Elizabeth Stewart,ellisyolanda@jones.net,Estonia,2023-09-12,Lead
+26,Shirley Suarez,eric84@hotmail.com,Sri Lanka,2024-10-21,Active
+27,Mary Spencer,josephpreston@tran.com,Costa Rica,2024-11-16,Lead
+28,Deborah Freeman,waltersmaria@smith.com,Central African Republic,2024-12-28,Lead
+29,Michael Hoffman,landryhannah@gardner.org,Mexico,2023-09-25,Lead
+30,Andrew Diaz,jason31@deleon-henson.biz,Nicaragua,2025-01-04,Lead
+31,Timothy Hancock,vjohnson@patton-jenkins.com,Ethiopia,2023-10-03,Inactive
+32,Ashley Brennan,jamessellers@yahoo.com,Gambia,2025-02-28,Active
+33,Crystal Johnson,emurphy@bell-hicks.net,Greenland,2025-05-31,Inactive
+34,Shawn Green,rodriguezryan@hotmail.com,Solomon Islands,2024-01-31,Lead
+35,William Wilson,bradley60@frost.com,Haiti,2024-05-01,Inactive
+36,Matthew Rivera,cortezkevin@yahoo.com,Papua New Guinea,2024-04-14,Active
+37,Michael Spencer,yortega@adkins.biz,Mayotte,2025-03-10,Active
+38,Dustin Jordan,rramos@gmail.com,Madagascar,2024-06-03,Lead
+39,Toni Fitzgerald,zachary95@cardenas.com,Czech Republic,2025-02-17,Inactive
+40,Alexander Sanchez,gibsonolivia@hotmail.com,Congo,2024-12-10,Inactive
+41,Kathleen Sanchez,osbornejeffery@holmes.com,Korea,2023-09-13,Inactive
+42,Mary Travis,usalazar@hotmail.com,Japan,2025-03-08,Active
+43,Jill Moore,pgreen@hotmail.com,Falkland Islands (Malvinas),2025-01-16,Active
+44,Kari Allen,reevesjimmy@yahoo.com,Ghana,2025-04-25,Inactive
+45,Brenda Hall,calebrussell@owens.biz,United Kingdom,2025-01-19,Active
+46,Melissa Gates,wsmith@yahoo.com,Sao Tome and Principe,2024-03-30,Active
+47,Tiffany Barnes,brobinson@johnson-rogers.biz,Saint Kitts and Nevis,2023-10-08,Inactive
+48,Tamara Hooper,qvargas@miller.com,Tonga,2024-05-25,Active
+49,David Murphy,matthew64@yahoo.com,El Salvador,2025-03-11,Inactive
+50,Alec Ryan,debraharrington@hotmail.com,Armenia,2025-01-07,Inactive
+51,David Combs,davidcaldwell@gould.com,Chad,2024-09-14,Lead
+52,Nicole Wilson,daniel04@byrd.com,Belarus,2024-09-03,Inactive
+53,Lori Garcia,hoganashlee@gmail.com,Guatemala,2024-07-19,Active
+54,Jacob Hunter,atkinsonlynn@gmail.com,Jersey,2024-03-09,Lead
+55,Sandra Zimmerman,jessicasheppard@yahoo.com,New Zealand,2025-02-18,Inactive
+56,Patricia Marshall,melissa14@yahoo.com,Ecuador,2025-01-04,Lead
+57,Leonard Gray,lrosales@lewis-salinas.com,Fiji,2025-04-15,Active
+58,Sheryl Peters,allenrichard@chang.info,Kiribati,2025-02-06,Inactive
+59,Edward Sullivan,elizabeth57@schmidt.com,Guinea,2024-11-28,Active
+60,Eric Hall,david82@robinson.com,Saint Kitts and Nevis,2024-09-01,Lead
+61,Kelly Campbell,kennethward@smith-ferguson.com,Aruba,2023-07-14,Inactive
+62,Melissa Martinez,salasaudrey@yahoo.com,Lesotho,2024-05-09,Lead
+63,Vincent King,shortrichard@gmail.com,Montserrat,2024-10-02,Lead
+64,Brittany Shepherd,mcknightdavid@yahoo.com,Netherlands,2024-09-07,Inactive
+65,Courtney Mills,levans@yahoo.com,Gambia,2024-08-16,Lead
+66,Lisa Singh,josephmiller@thompson.com,Afghanistan,2024-04-14,Active
+67,Kirk Carter,jasmine71@hall.org,Panama,2025-02-15,Lead
+68,Jessica Stephens,margaret10@sparks.org,Uruguay,2024-01-12,Active
+69,John Torres,vincent77@gmail.com,Nepal,2023-07-02,Active
+70,Morgan Munoz,perezemily@matthews.com,Montserrat,2023-07-03,Lead
+71,Casey Stone,howard96@hotmail.com,Suriname,2024-06-17,Active
+72,Julie Ortiz,hodgemark@hotmail.com,Lithuania,2024-01-11,Inactive
+73,Jennifer Hodges,qmiller@wilson-barton.net,Sweden,2023-06-02,Active
+74,Kimberly Gutierrez,cindy77@harris.com,Vanuatu,2024-01-11,Active
+75,Michael Martinez,lancesmith@davis-gay.com,Kyrgyz Republic,2023-09-01,Active
+76,Brittany Cantu,robert77@gmail.com,Korea,2024-08-03,Inactive
+77,Connor Greene,hillkristy@morgan-french.com,Swaziland,2023-06-03,Inactive
+78,Edwin Matthews,seanwashington@yahoo.com,Mexico,2025-01-14,Inactive
+79,Jordan Morris,ashleyhall@williams-garner.biz,Hungary,2024-10-29,Lead
+80,Marissa Hernandez,waynelawrence@sawyer.com,Mali,2025-05-09,Inactive
+81,Nathan Ortiz,harrisontanya@hanson-sanders.com,Timor-Leste,2024-02-12,Active
+82,Shannon James,cbrennan@hotmail.com,Bangladesh,2023-12-01,Inactive
+83,Tammie Bright,wgood@padilla.com,United Kingdom,2023-06-24,Inactive
+84,Robert Carter,hthomas@yahoo.com,Monaco,2024-11-12,Active
+85,Carolyn Miller,tyleraguilar@gmail.com,Kyrgyz Republic,2024-10-09,Lead
+86,David Smith,erica21@yahoo.com,Western Sahara,2024-02-25,Inactive
+87,Elizabeth Hayden DDS,james67@gmail.com,Dominica,2024-03-24,Lead
+88,Laura Haney,spencedominique@yahoo.com,Algeria,2024-08-14,Lead
+89,Paula Beltran,kimberly39@yahoo.com,Cyprus,2024-10-08,Lead
+90,David Campos,bergerdebbie@kramer-johnson.com,Saint Martin,2023-09-12,Active
+91,Edward Burgess,davidryan@schmidt-mcintyre.com,Equatorial Guinea,2025-05-11,Lead
+92,Karen Drake,mcdonaldcharles@gmail.com,Tokelau,2024-11-08,Lead
+93,Veronica Coffey,gibbsalexander@hotmail.com,British Virgin Islands,2024-05-20,Active
+94,Paul Baker,daniel37@gmail.com,Nicaragua,2025-04-18,Lead
+95,Erin Bishop,tblankenship@ortiz.com,Lithuania,2023-08-31,Lead
+96,Stephen Taylor,ellen86@hotmail.com,Samoa,2024-12-17,Active
+97,Jason Garcia,rcrosby@gmail.com,Portugal,2024-03-15,Active
+98,Jeremy Young,pollardmichael@hotmail.com,Guinea-Bissau,2023-07-19,Inactive
+99,Colton Martinez,batesdarlene@hotmail.com,Angola,2023-07-11,Inactive
+100,Dana Martinez,gallegosangela@robinson.com,Solomon Islands,2025-05-01,Inactive
